@@ -9,8 +9,13 @@
 	* [城市空间收集指南](city/city-place.md)
 	* [线下活动执行指南](city/city-event.md)
 	* [城市社群运营指南](city/city-community.md)
+* [内容小组](content/content.md)
+	* [一早一晚访谈指南](content/interview.md)
+	* [开放对话计划指南](content/open-talk.md)
+	* [一早一晚周刊指南](content/weekly.md)
 * [社媒小组](social-media.md)
 * [社群小组](community.md)
 * [GHT 小组](growth-hacking.md)
 * [开发小组](develop.md)
 * [设计小组](design.md)
+
