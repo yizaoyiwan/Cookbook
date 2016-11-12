@@ -3,6 +3,10 @@
 * [自由行动小组]()
 	* [关于](about/about.md)
 	* [分布式组织](about/distributed.md)
+* [团队](team/team.md)
+	* [小组成员介绍](team/resume.md)
+	* [新成员加入流程](team/on-boarding.md)
+	* [小组协作规范](team/guideline.md)
 * [城市小组](city/city.md)
 	* [城市小组组织者](city/city-organizer.md)
 	* [城市数据收集指南](city/city-data.md)
@@ -19,4 +23,3 @@
 * [GHT 小组](growth-hacking.md)
 * [开发小组](develop.md)
 * [设计小组](design.md)
-
